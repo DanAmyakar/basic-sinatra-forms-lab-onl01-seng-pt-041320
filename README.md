@@ -17,7 +17,7 @@ display the data from the form after it has been submitted by the user.
    Create a route that responds to a GET request at `/newteam`.
    Add a form to the `newteam.erb` template and render it in the GET `/newteam`
    route.
-
+   
    The form should have fields for:
    Team name ('name')
    Coach ('coach')
